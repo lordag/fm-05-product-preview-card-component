@@ -52,7 +52,7 @@ Then I found a way that uses the picture tag to manage the images depending on t
 It is very convenient and allows you to write more semantic code.
 
 ```html
-<div class="image__container" title="Image of Gabrielle Essence Eau De Parfum">
+<div class="image__container">
   <picture>
     <source media="(max-width: 36em)" srcset="./images/image-product-mobile.jpg">
     <source media="(min-width: 36em)" srcset="./images/image-product-desktop.jpg">
