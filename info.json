@@ -1,0 +1,8 @@
+{
+    "preview": "demo.png",
+    "tag": ["Html", "Css"],
+    "title": "Product preview card",
+    "description": "Product preview card component challenge on Frontend Mentor",
+    "github": "https://github.com/lordag/fm-05-product-preview-card-component",
+    "live": "https://lordag.github.io/fm-05-product-preview-card-component"
+}
